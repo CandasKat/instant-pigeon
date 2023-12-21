@@ -1,1 +1,2 @@
-![Instant pigeon logo by ai](https://github.com/CandasKat/instant-pigeon/assets/91725854/d3b258f7-a589-43d5-bd1b-69bf9ee7aed9)
+
+![Logo instant pigeon](https://github.com/CandasKat/instant-pigeon/assets/91725854/5a42e91b-2d7a-4a9d-af49-341b29e85e4c)
